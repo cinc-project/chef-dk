@@ -45,6 +45,9 @@ dependency "libxslt"
 dependency "liblzma"
 dependency "zlib"
 
+# For knife-vcenter/kitchen-vcenter's ethon dep
+dependency "curl"
+
 #
 # NOTE: NO GEM DEPENDENCIES
 #
